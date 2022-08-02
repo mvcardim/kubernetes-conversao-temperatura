@@ -3,7 +3,7 @@
 ### Para entender toda criação do build da imagem em docker. Veja esse link abaixo.
 
 ```bash
-git clone https://github.com/tallesemmanuel/conversao-temperatura.git
+git clone https://github.com/mvcardim/conversao-temperatura.git
 ```
 
 ## Requisitos - Ter instalado os seguintes serviços.
@@ -17,7 +17,7 @@ git clone https://github.com/tallesemmanuel/conversao-temperatura.git
 Download do projeto.
 
 ```bash
-git clone https://github.com/tallesemmanuel/kubernetes-conversao-temperatura.git
+git clone https://github.com/mvcardim/kubernetes-conversao-temperatura.git
 ```
 
 - Iniciar um cluster.
@@ -42,7 +42,7 @@ Nele você consegue ver todos os "pods", "services", "replicateSets", "deploymen
 kubectl get all
 ```
 
-Saída do comando.
+Saída do comando de parecer como:
 
 ```bash
 NAME                                         READY   STATUS    RESTARTS   AGE
